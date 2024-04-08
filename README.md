@@ -8,9 +8,10 @@ This repository contains the source code and resources for a ChatBot built using
 - **Integration Capabilities**: Can be integrated with various platforms and applications to provide chat-based functionalities.
 
 ## Requirements
-- Ruby (version X.X.X)
+- Python (version X.X.X)
 - Gemini Pro gem (version X.X.X)
-
+- Jupyter Notebook or Google Colab
+  
 ## Installation
 1. Clone this repository to your local machine.
    ```
@@ -25,7 +26,8 @@ This repository contains the source code and resources for a ChatBot built using
 1. Ensure all dependencies are installed.
 2. Run the ChatBot application.
    ```
-   ruby chatbot.rb
+   jupyter nbconvert --execute chatbot.ipynb
+
    ```
 3. Start conversing with the ChatBot by typing your queries and pressing Enter.
 
