@@ -1,5 +1,3 @@
-**ChatBot using Gemini Pro**
-
 ## Overview
 This repository contains the source code and resources for a ChatBot built using Gemini Pro, a powerful natural language processing (NLP) library. This ChatBot is designed to interact with users in a conversational manner, understanding their queries and providing appropriate responses based on pre-defined logic and machine learning algorithms.
 
